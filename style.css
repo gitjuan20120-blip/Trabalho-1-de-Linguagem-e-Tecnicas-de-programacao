@@ -1,0 +1,33 @@
+/* titulo são todos os h2 da conquista */
+/* subtitulo são todos os h3 da conquista */
+/* texto são todos os p da conquista */
+/* resultados são todas as tabelas da conquista*/
+/* trofeu é a imagem dele segurando um trofeu */
+
+.titulo{
+text-align: center;
+    background-color: rgb(140, 140, 235);
+   width:30%;
+   margin: 0 auto;
+}
+.subtitulo{
+   text-align: center;
+    background-color: rgb(149, 237, 237);
+   width:30%;
+   margin: 0 auto;
+}
+.texto{
+width: 80%;
+margin: 0 auto;
+background-color: rgb(239, 198, 144);
+}
+.resultados{
+    border-collapse: collapse;
+    margin: 0 auto;}
+
+.trofeu{
+    margin: 0 auto;
+        width: 15%;
+       display: block;
+
+    }
